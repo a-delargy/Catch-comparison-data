@@ -1,13 +1,9 @@
 # Catch-comparison-data
 Data and code files for Detection and quantification of differences in catch rates among research vessel gears and commercial vessels
 
-#### SCRIPTS
+#### 
 
-'Scallop catch analysis online.R' contains the statistical analyses of the catch comparison rates of the CPUE of all scallops combined. "Total scallop catch" in paper. 
-
-'Scallop MLS catch analysis.R' contains the statistical analyses of the catch comparison rates of the CPUE of scallops greater than por equal to the minimum landing size (i.e. harvestable scallops).  "Commercial-sized scallop catch" in paper. This script is extremely similar to the above one and therefore less notes are provided within. 
-
-'Size curve analysis online.R' contains the statistical analyses of the catch comparison rates of the CPUE of scallops in 5 mm size groups. "Size-structured scallop catch" in paper. 
+'Size curve analysis online.R' contains the statistical analyses of the catch comparison rates of the CPUE of scallops in 5 mm size groups. 
 
 #### DATA FILES
 
