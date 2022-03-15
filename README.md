@@ -82,3 +82,20 @@ Res: deviance residuals.
 
 ############
 ############
+
+'Model parameters 3 knots.csv' contains estimates of the model parameters for each comparison 
+
+Intercept: model intercept
+b1, b2, b3: beta 1:3 as described in paper
+
+############
+############
+
+'Distance between vessels.csv" contains estimates of the distances between pairs of vessels during the hauls
+
+dista: distance between vessels at starting coordinates in m 
+station: haul name 
+comp: comparsion
+
+############
+############
